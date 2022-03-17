@@ -5,4 +5,6 @@
 * 구현환경: YOLOv3_tiny
 
 ### 참가확인서
-<img width:"50%" src:"https://user-images.githubusercontent.com/70895373/158744999-5ab76eb3-98ef-4285-acf5-000827aa666d.png">
+<img width="50%" src="https://user-images.githubusercontent.com/70895373/158744999-5ab76eb3-98ef-4285-acf5-000827aa666d.png"/>
+
+
